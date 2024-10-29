@@ -1,0 +1,22 @@
+#a2wc_convert_logs {
+    margin: 20px 15px 0 0;
+    
+}
+
+#a2wc_convert_logs label{
+    line-height: 1.3;
+    font-weight: 600;
+}
+
+#a2wc_convert_logs .logs{
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 4px;
+    max-height: 400px;
+    overflow: auto;
+}
+
+#a2wc_convert_logs .clear-logs{
+    cursor: pointer;
+    font-size: 10px
+}
